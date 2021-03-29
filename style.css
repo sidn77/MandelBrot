@@ -1,0 +1,45 @@
+#MANDEL_SCALE_SLIDER 
+{
+	appearance: none;
+	position: relative;
+	top: 9px;
+	left: 5px;
+	height: 15px;
+	border-radius: 5px;
+	background: #d3d3d3;
+  	outline: none;
+  	opacity: 0.7;
+}
+
+#MANDEL_X_SLIDER
+{
+	appearance: none;
+	position: relative;
+	top: 9px;
+	left: 5px;
+	height: 15px;
+	border-radius: 5px;
+	background: #d3d3d3;
+  	outline: none;
+  	opacity: 0.7;
+}
+
+#MANDEL_Y_SLIDER
+{
+	appearance: none;
+	position: relative;
+	top: 9px;
+	left: 5px;
+	height: 15px;
+	border-radius: 5px;
+	background: #d3d3d3;
+  	outline: none;
+  	opacity: 0.7;
+}
+
+#p 
+{
+	width: 200px;
+	margin-bottom: 1px;
+	margin-left: 10px;
+}
